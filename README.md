@@ -1,6 +1,6 @@
 # Olá 👋
 
-### Me chamo Eduardo, tenho 20 anos e meu objetivo é trabalhar e morar no Canadá 🍁
+### Me chamo Eduardo, tenho 21 anos e meu objetivo é trabalhar e morar no Canadá 🍁
 
 - 🌱 Atualmente estou aprendendo Python
 - 📚 Estou estudando para o vestibular
