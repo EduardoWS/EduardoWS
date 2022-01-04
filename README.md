@@ -5,4 +5,4 @@
 - 🌱 Atualmente estou aprendendo Python
 - 📚 Estudando para o vestibular
 - 🎨 Raramente faço uns desenhos
-- 📫 Como entrar em contato comigo: [Instagram](https://www.instagram.com/berserker_ws/) ou eduardorr.ws@gmail.com
+- 📫 Como entrar em contato comigo: eduardorr.ws@gmail.com
